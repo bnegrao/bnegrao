@@ -1,5 +1,3 @@
-👋 Hi, I’m @bnegrao
-
 - Senior Backend Developer
 - I also own another github account: https://github.com/bruno-zica
 - https://www.linkedin.com/in/bruno-zica-6539536/
